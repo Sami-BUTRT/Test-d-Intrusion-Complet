@@ -1,10 +1,8 @@
-# Audit de Sécurité Offensif - Lab VirtualBox
-
 ## Présentation
 Mise en place d'un environnement contrôlé pour simuler des attaques et tester des remédiations.
 
 ## Architecture du Lab
-- **Attaquant :** Kali Linux (2024.x)
+- **Attaquant :** Kali Linux
 - **Cible 1 :** Metasploitable 2 (Linux vulnérable)
 - **Cible 2 :** Windows XP SP2 (Non patché)
 - **Réseau :** Host-only (Isolé d'Internet)
